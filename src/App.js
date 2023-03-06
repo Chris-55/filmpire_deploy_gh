@@ -16,6 +16,8 @@ const movie1 =
 }
 
 
+
+
 const App = () => {
     const [movies, setMovies] = useState([]);
     const [searchTerm, setSearchTerm] = useState('');
