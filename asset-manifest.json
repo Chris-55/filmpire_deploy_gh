@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/filmland/static/css/main.334bdeb1.css",
-    "main.js": "/filmland/static/js/main.3441e5a8.js",
-    "index.html": "/filmland/index.html",
-    "static/media/search.svg": "/filmland/static/media/search.374dc34a202f33824c399a37082cabeb.svg",
-    "main.334bdeb1.css.map": "/filmland/static/css/main.334bdeb1.css.map",
-    "main.3441e5a8.js.map": "/filmland/static/js/main.3441e5a8.js.map"
+    "main.css": "/filmpire_deploy_gh/static/css/main.334bdeb1.css",
+    "main.js": "/filmpire_deploy_gh/static/js/main.9d23f3b4.js",
+    "index.html": "/filmpire_deploy_gh/index.html",
+    "static/media/search.svg": "/filmpire_deploy_gh/static/media/search.374dc34a202f33824c399a37082cabeb.svg",
+    "main.334bdeb1.css.map": "/filmpire_deploy_gh/static/css/main.334bdeb1.css.map",
+    "main.9d23f3b4.js.map": "/filmpire_deploy_gh/static/js/main.9d23f3b4.js.map"
   },
   "entrypoints": [
     "static/css/main.334bdeb1.css",
-    "static/js/main.3441e5a8.js"
+    "static/js/main.9d23f3b4.js"
   ]
 }
